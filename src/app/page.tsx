@@ -11,7 +11,7 @@ export default function Home() {
             Investigating potential bugs with Cloudflare Images and different
             Next.js versions
           </p>
-          <code>Next.js 14.0.4</code>
+          <code>Next.js 13.5.6</code>
           <Link
             className="hover:underline hover:text-purple-600 text-purple-500"
             href={"https://github.com/aldosch/test-cloudflare-images"}
